@@ -1,5 +1,5 @@
-lxml==4.9.2
-Pillow==9.4.0
-pypandoc==1.10
-python-docx==0.8.11
-yattag==1.15.0
+lxml==5.30
+Pillow==11.1.0
+pypandoc==1.15
+python-docx==4.12.2
+yattag==1.16.1
